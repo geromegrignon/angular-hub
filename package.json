@@ -59,7 +59,7 @@
     "@angular/build": "^20.0.5",
     "@angular/cli": "^20.0.5",
     "@angular/compiler-cli": "^20.0.5",
-    "@angular/language-service": "18.2.0",
+    "@angular/language-service": "20.1.4",
     "@angular/localize": "20.0.6",
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
