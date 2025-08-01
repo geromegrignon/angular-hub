@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@angular/build": "^20.0.5",
-    "@angular/cli": "^20.0.5",
+    "@angular/cli": "^20.1.4",
     "@angular/compiler-cli": "^20.0.5",
     "@angular/language-service": "18.2.0",
     "@angular/localize": "20.0.6",
