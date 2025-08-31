@@ -2679,5 +2679,19 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.angularspace.com/first-angular-space-meetup-date/"
+  },
+  {
+    "name": "Angular Space Meetup: The Hidden Costs of Angular Updates",
+    "organizerId": "angular-space",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-09-03",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.angularspace.com/the-hidden-costs-of-angular-updates/"
   }
 ]
