@@ -2693,5 +2693,19 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.angularspace.com/the-hidden-costs-of-angular-updates/"
+  },
+  {
+    "name": "Angular Space Meetup: Migrating a UI Library to Angular Signals",
+    "organizerId": "angular-space",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-09-10",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.youtube.com/watch?v=5tQE717jbNY"
   }
 ]
