@@ -2255,6 +2255,20 @@
     "location": "Paris, France"
   },
   {
+    "name": "Paris Angular #4",
+    "organizerId": "paris-angular",
+    "type": "meetup",
+    "date": "2025-10-02",
+    "url": "https://www.meetup.com/paris-angular/events/310895969/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "French",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Paris, France"
+  },
+  {
     "name": "Evolving Architecture",
     "organizerId": "angular-toronto",
     "type": "meetup",
