@@ -308,6 +308,21 @@
     "url": "https://www.meetup.com/angular-belgium/events/303551195"
   },
   {
+    "name": "Angular Meetup @ PeopleWare",
+    "organizerId": "angular-belgium",
+    "type": "meetup",
+    "location": "Lier, Belgium",
+    "date": "2025-10-16",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-belgium/events/311081923/",
+    "description": "Our next in-person Angular meetup will be hosted by PeopleWare in Lier. PeopleWare is so kind to provide us with food and drinks."
+  },
+  {
     "name": "NG Belgrade Conf 2024",
     "organizerId": "angular-belgrade",
     "type": "conference",
