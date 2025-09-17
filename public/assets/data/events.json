@@ -2417,7 +2417,7 @@
     "description": " Here you can join us and talk about Angular during Lunch and ask questions to your fellow Angular Developers and the Hosts from the Dutch Angular Group."
   },
   {
-    "name": "TBA",
+    "name": "Dutch Angular Meet Up @ Axxes IT",
     "organizerId": "dutch-angular-group",
     "type": "meetup",
     "date": "2025-10-02",
@@ -2428,7 +2428,8 @@
     "isFree": true,
     "isRemote": false,
     "isOnsite": true,
-    "location": "Utrecht, Netherlands"
+    "location": "Utrecht, Netherlands",
+    "description": "Get ready for an exciting Angular evening! 🚀 Axxes and the Dutch Angular Group have joined forces to bring you a top-notch meetup — hosted at the Axxes office. We kick off with a free dinner and drinks, followed by two inspiring talks."
   },
   {
     "name": "Angular Lunch Session",
