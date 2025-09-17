@@ -2735,5 +2735,19 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.youtube.com/watch?v=5tQE717jbNY"
+  },
+  {
+    "name": "Angular Space Meetup: Modern Angular Architecture Challenges",
+    "organizerId": "angular-space",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-09-17",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.youtube.com/watch?v=wD0c3gMrGtA"
   }
 ]
