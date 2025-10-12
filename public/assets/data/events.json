@@ -1749,6 +1749,20 @@
     "url": "https://www.meetup.com/ng-lodz/events/310387380/"
   },
   {
+    "name": "ngLodz #20 - Mastering Types & Signal Forms",
+    "organizerId": "ng-lodz",
+    "type": "meetup",
+    "location": "Łódź, Poland",
+    "date": "2025-10-22",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ng-lodz/events/311403964/"
+  },
+  {
     "name": null,
     "organizerId": "ng-asia",
     "type": "meetup",
