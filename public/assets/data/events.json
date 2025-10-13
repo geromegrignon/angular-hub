@@ -140,6 +140,48 @@
     "url": "https://meetup.angular.love/spring-camp-2025/"
   },
   {
+    "name": "Angular Love Autumn Camp",
+    "organizerId": "angular-love",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-10-28",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://meetup.angular.love/autumn-camp-2025/"
+  },
+  {
+    "name": "Angular Love Autumn Camp",
+    "organizerId": "angular-love",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-11-25",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://meetup.angular.love/autumn-camp-2025/"
+  },
+  {
+    "name": "Angular Love Autumn Camp",
+    "organizerId": "angular-love",
+    "type": "meetup",
+    "location": "Warsaw, Poland",
+    "date": "2025-12-11",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://meetup.angular.love/autumn-camp-2025/"
+  },
+  {
     "name": "Angular Athens 20th Meetup",
     "organizerId": "angular-athens",
     "type": "meetup",
