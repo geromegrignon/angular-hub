@@ -16,10 +16,13 @@ import { Podcast } from './models/podcast.model';
 import { isFuture, isToday } from 'date-fns';
 import { Event } from './models/event.model';
 import { CommunityEvent } from './models/community-event.model';
+import cors from 'cors';
 
 const browserDistFolder = join(import.meta.dirname, '../browser');
 
 const app = express();
+app.use(cors());
+
 const angularApp = new AngularNodeAppEngine();
 
 // API Routes
