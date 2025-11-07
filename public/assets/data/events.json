@@ -2255,6 +2255,20 @@
     "description": "🎂NGKato is celebrating its first anniversary! Be part of the Angular community in Katowice and discover what surprises we’ve prepared."
   },
   {
+    "name": "NG KATO #9",
+    "organizerId": "ng-kato",
+    "type": "meetup",
+    "location": "Katowice, Poland",
+    "date": "2025-12-02",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ngkato/events/311886161/"
+  },
+  {
     "name": "Ng Conf Perú",
     "organizerId": "angular-community-peru",
     "type": "conference",
