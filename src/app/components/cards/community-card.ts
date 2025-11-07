@@ -118,7 +118,7 @@ import { Community } from '../../../models/community.model';
 
       <footer class="flex flex-col gap-2">
         <a
-          [href]="community().eventsUrl"
+          [href]="community().websiteUrl ?? community().eventsUrl"
           target="_blank"
           class="w-full flex items-center justify-center text-sm bg-[#26A0D9] text-white p-2 rounded-lg"
           i18n="@@community-card.join"
