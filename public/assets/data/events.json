@@ -2098,22 +2098,6 @@
     "location": "Ghent, Belgium"
   },
   {
-    "name": "NG-BE 2025",
-    "organizerId": "ng-be",
-    "type": "conference",
-    "date": "2025-12-4",
-    "endDate": "2025-12-5",
-    "url": "https://ng-be.org/",
-    "callForPapersUrl": null,
-    "callForPapersDueDate": null,
-    "language": "English",
-    "isFree": false,
-    "isRemote": false,
-    "isOnsite": true,
-    "location": "Ghent, Belgium",
-    "description": "NG-BE is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular."
-  },
-  {
     "name": null,
     "organizerId": "angular-rome",
     "type": "meetup",
