@@ -910,5 +910,21 @@
     "youtubeUrl": "https://www.youtube.com/@AngularSpaceMeetup",
     "twitchUrl": "https://www.twitch.tv/angularspacemeetup",
     "callForPapersUrl": null
+  },
+  {
+    "id": "ng-finland",
+    "name": "ngFinland",
+    "type": "angular-community",
+    "location": "Helsinki, Finland",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHpy28p50PtTw/company-logo_200_200/B4DZoS8yaeGkAI-/0/1761254517015?e=1764201600&v=beta&t=Zj8YeDBHNM-XnnWYGelT8HG_zEh8Eh8Bz49pwZf_WHA",
+    "eventsUrl": null,
+    "websiteUrl": "https://ng-finland.vercel.app/",
+    "organizersUrl": "https://www.linkedin.com/company/ngfinland/people/",
+    "blueskyUrl": null,
+    "xUrl": "https://x.com/ngfinland",
+    "linkedinUrl": "https://www.linkedin.com/company/ngfinland/",
+    "youtubeUrl": null,
+    "twitchUrl": null,
+    "callForPapersUrl": null
   }
 ]
