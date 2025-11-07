@@ -1956,10 +1956,11 @@
     "isFree": false,
     "isRemote": false,
     "isOnsite": true,
-    "callForPapersUrl": "https://2024.angularday.it/welcome/cfp.html",
-    "callForPapersDueDate": "2025-06-15",
-    "url": "https://2024.angularday.it/",
-    "description": "angularday 2024 is the 8th edition of the Italian angular conference, organized by GrUSP, organizers of events like reactjsday and jsday. The event is international and all sessions will be in English. The event’s goal is to allow all angular developers to meet and share experience while having fun and networking in an enjoyable context"
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.angularday.it/",
+    "startingPrice": 49,
+    "currency": "€"
   },
   {
     "name": null,
