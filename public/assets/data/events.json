@@ -1351,14 +1351,14 @@
     "organizerId": "angular-vienna",
     "type": "meetup",
     "location": "Vienna, Austria",
-    "date": "2025-12",
+    "date": "2025-12-12",
     "language": "English",
     "isFree": true,
     "isRemote": false,
     "isOnsite": true,
     "callForPapersUrl": "http://bit.ly/angular-vienna-cfp",
     "callForPapersDueDate": null,
-    "url": null
+    "url": "https://www.meetup.com/nl-nl/angular-vienna/events/308649521/"
   },
   {
     "name": "Angular Vienna Summer Meetup July",
