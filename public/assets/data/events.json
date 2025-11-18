@@ -631,6 +631,20 @@
     "url": "https://www.meetup.com/angularcommunity/events/308469038/"
   },
   {
+    "name": "Angular v21 Release Party",
+    "organizerId": "angular-community",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-11-20",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularcommunity/events/312064484/"
+  },
+  {
     "name": null,
     "organizerId": "angular-costa-rica",
     "type": "meetup",
