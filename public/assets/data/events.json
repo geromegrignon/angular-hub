@@ -2367,6 +2367,20 @@
     "location": "Paris, France"
   },
   {
+    "name": "Paris Angular #5",
+    "organizerId": "paris-angular",
+    "type": "meetup",
+    "date": "2025-12-11",
+    "url": "https://www.meetup.com/paris-angular/events/312036234/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "French",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Paris, France"
+  },
+  {
     "name": "Evolving Architecture",
     "organizerId": "angular-toronto",
     "type": "meetup",
