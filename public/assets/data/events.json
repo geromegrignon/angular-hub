@@ -1847,6 +1847,20 @@
     "url": "https://www.meetup.com/ng-lodz/events/311403964/"
   },
   {
+    "name": "ngLodz #21 - 2025 Final - Christmas edtion",
+    "organizerId": "ng-lodz",
+    "type": "meetup",
+    "location": "Łódź, Poland",
+    "date": "2025-12-05",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ng-lodz/events/312114222/"
+  },
+  {
     "name": null,
     "organizerId": "ng-asia",
     "type": "meetup",
