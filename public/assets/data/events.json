@@ -954,6 +954,20 @@
     "url": "https://www.meetup.com/angular-london/events/308433278/"
   },
   {
+    "name": "Angular London Meetup",
+    "organizerId": "angular-london",
+    "type": "meetup",
+    "location": "London, United Kingdom",
+    "date": "2025-12-04",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-london/events/312094754/"
+  },
+  {
     "name": "Angular London Meetup 13th November 2025",
     "organizerId": "angular-london",
     "type": "meetup",
