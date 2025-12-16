@@ -2171,6 +2171,21 @@
     "location": "Ghent, Belgium"
   },
   {
+    "name": "NG-BE 2026",
+    "organizerId": "ng-be",
+    "type": "conference",
+    "date": "2026-12-03",
+    "endDate": "2026-12-04",
+    "url": "https://ng-be.org/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Ghent, Belgium"
+  },
+  {
     "name": null,
     "organizerId": "angular-rome",
     "type": "meetup",
