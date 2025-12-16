@@ -379,6 +379,23 @@
     "location": "Belgrade, Serbia"
   },
   {
+    "name": "NG Belgrade Conf 2026",
+    "organizerId": "angular-belgrade",
+    "type": "conference",
+    "date": "2026-05-07",
+    "endDate": "2026-05-08",
+    "url": "https://angularbelgrade.org/",
+    "callForPapersUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeNN2-WWxW22PItzH_eecVjk6CKpm4TCT-Lt33HT8saec5SYg/viewform",
+    "callForPapersDueDate": "2026-01-31",
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Belgrade, Serbia",
+    "startingPrice": 119,
+    "currency": "€"
+  },
+  {
     "name": null,
     "organizerId": "angular-birmingham",
     "type": "meetup",
