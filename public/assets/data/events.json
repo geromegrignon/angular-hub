@@ -774,6 +774,20 @@
     "url": "https://ngbaguette.angulardevs.fr/en/"
   },
   {
+    "name": "NG Baguette Conf 2026",
+    "organizerId": "angular-devs-france",
+    "type": "conference",
+    "location": "Paris, France",
+    "date": "2026-05-29",
+    "language": "French",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": "https://conference-hall.io/ng-baguette-conf-2026",
+    "callForPapersDueDate": "2026-01-31",
+    "url": "https://ngbaguette.angulardevs.fr/en/"
+  },
+  {
     "name": "Le Futur d’Angular : Plus Performant, Plus Léger, Plus Réactif",
     "organizerId": "angular-devs-france",
     "type": "meetup",
