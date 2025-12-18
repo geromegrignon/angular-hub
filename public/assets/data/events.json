@@ -3020,5 +3020,22 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.youtube.com/watch?v=wD0c3gMrGtA"
+  },
+  {
+    "name": "ngFinland 2026",
+    "organizerId": "ng-finland",
+    "type": "conference",
+    "location": "Vaasa, Finland",
+    "date": "2026-06-15",
+    "endDate": "2026-06-16",
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://ng-finland.vercel.app/events/ngfinland2026",
+    "startingPrice": 199,
+    "currency": "€"
   }
 ]
