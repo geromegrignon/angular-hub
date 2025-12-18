@@ -1752,6 +1752,23 @@
     "location": "Rome, Italy"
   },
   {
+    "name": "NGRome Conference MMXXVI",
+    "organizerId": "ng-rome",
+    "type": "conference",
+    "date": "2026-06-17",
+    "endDate": "2026-06-19",
+    "url": "https://ngrome.io/",
+    "callForPapersUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf8ldiXJjUbf2P8oJ9VdbxCO9ak2LiT-GE024zK7bL_SYZtGQ/viewform",
+    "callForPapersDueDate": "2026-03-01",
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Rome, Italy",
+    "startingPrice": 50,
+    "currency": "€"
+  },
+  {
     "name": "ngLodz #9",
     "organizerId": "ng-lodz",
     "type": "meetup",
