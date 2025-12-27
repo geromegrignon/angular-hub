@@ -2022,6 +2022,22 @@
     "url": "https://www.ng-ind.com/"
   },
   {
+    "name": "ng-India 2026",
+    "organizerId": "ng-india",
+    "type": "conference",
+    "location": "Delhi, India",
+    "date": "2026-04-11",
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.ng-ind.com/",
+    "startingPrice": 4000,
+    "currency": "₹"
+  },
+  {
     "name": null,
     "organizerId": "angular-hungary",
     "type": "meetup",
@@ -2846,6 +2862,20 @@
     "type": "meetup",
     "date": "2025-09-11",
     "url": "https://www.meetup.com/angular-london/events/308779045",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": true,
+    "location": "London, UK"
+  },
+  {
+    "name": "Angular London Meetup",
+    "organizerId": "angular-london",
+    "type": "meetup",
+    "date": "2026-01-21",
+    "url": "https://www.meetup.com/angular-london/events/312485987",
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "language": "English",
