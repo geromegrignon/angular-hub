@@ -2544,6 +2544,20 @@
     "location": "Paris, France"
   },
   {
+    "name": "Paris Angular #6",
+    "organizerId": "paris-angular",
+    "type": "meetup",
+    "date": "2026-02-17",
+    "url": "https://www.meetup.com/paris-angular/events/312929131/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "French",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Paris, France"
+  },
+  {
     "name": "Evolving Architecture",
     "organizerId": "angular-toronto",
     "type": "meetup",
