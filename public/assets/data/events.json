@@ -1645,6 +1645,20 @@
     "url": "https://www.meetup.com/angularzrh/events/297043503"
   },
   {
+    "name": "Angular Zurich February 2026",
+    "organizerId": "angular-zurich",
+    "type": "meetup",
+    "location": "Zurich, Switzerland",
+    "date": "2026-02-17",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularzrh/events/313301095/"
+  },
+  {
     "name": null,
     "organizerId": "ng-girls",
     "type": "workshop",
