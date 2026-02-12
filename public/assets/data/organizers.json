@@ -926,5 +926,21 @@
     "youtubeUrl": null,
     "twitchUrl": null,
     "callForPapersUrl": null
+  },
+  {
+    "id": "ng-tunisia",
+    "name": "NG Tunisia",
+    "type": "angular-community",
+    "location": "Tunis, Tunisia",
+    "logo": "https://res.cloudinary.com/dro4f541w/image/upload/v1766662504/ChatGPT_Image_Dec_19_2025_03_55_13_PM_eiqgvc.png",
+    "eventsUrl": null,
+    "websiteUrl": "https://ng-tunisia.org/#/",
+    "organizersUrl": "https://ng-tunisia.org/#/#team",
+    "blueskyUrl": null,
+    "xUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/ng-tunisia/",
+    "youtubeUrl": null,
+    "twitchUrl": null,
+    "callForPapersUrl": null
   }
 ]
