@@ -1476,6 +1476,20 @@
     "url": "https://www.meetup.com/angular-vienna/events/308253653/"
   },
   {
+    "name": "Angular Vienna - March Meetup",
+    "organizerId": "angular-vienna",
+    "type": "meetup",
+    "location": "Vienna, Austria",
+    "date": "2026-03-11",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-vienna/events/313308274/"
+  },
+  {
     "name": "The New NGRX Signal Store: Modern State Management for Your Angular Architecture",
     "organizerId": "angular-warsaw",
     "type": "meetup",
