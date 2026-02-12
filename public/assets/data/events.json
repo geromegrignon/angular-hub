@@ -2231,6 +2231,21 @@
     "description": "Join us for the premier Angular conference in Germany. Secure your spot today!"
   },
   {
+    "name": "NG-DE Conference",
+    "organizerId": "ng-de",
+    "type": "conference",
+    "date": "2026-10-14",
+    "endDate": "2026-10-16",
+    "url": "https://ng-de.org/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Berlin, Germany"
+  },
+  {
     "name": "NG-BE 2024",
     "organizerId": "ng-be",
     "type": "conference",
