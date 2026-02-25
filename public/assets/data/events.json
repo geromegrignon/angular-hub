@@ -785,7 +785,9 @@
     "isOnsite": true,
     "callForPapersUrl": "https://conference-hall.io/ng-baguette-conf-2026",
     "callForPapersDueDate": "2026-01-31",
-    "url": "https://ngbaguette.angulardevs.fr/en/"
+    "url": "https://ngbaguette.angulardevs.fr/en/",
+    "startingPrice": 69,
+    "currency": "€"
   },
   {
     "name": "Le Futur d’Angular : Plus Performant, Plus Léger, Plus Réactif",
