@@ -1111,6 +1111,20 @@
     "url": "https://www.meetup.com/angular-meetup-berlin/events/305129347"
   },
   {
+    "name": "Angular Meetup Berlin - we are back!",
+    "organizerId": "angular-meetup-berlin",
+    "type": "meetup",
+    "location": "Berlin, Germany",
+    "date": "2026-03-16",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-meetup-berlin/events/313488220/"
+  },
+  {
     "name": "Angular Renaissance & More",
     "organizerId": "angular-meetup-graz",
     "type": "meetup",
