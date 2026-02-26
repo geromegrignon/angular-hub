@@ -1773,6 +1773,20 @@
     "url": null
   },
   {
+    "name": "ngGirls @ Copenhagen",
+    "organizerId": "ng-girls",
+    "type": "workshop",
+    "location": "Copenhagen, Denmark",
+    "date": "2026-03-08",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.ng-girls.org/event/copenhagen-2026"
+  },
+  {
     "name": null,
     "organizerId": "ng-conf",
     "type": "conference",
