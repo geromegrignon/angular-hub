@@ -718,6 +718,34 @@
     "url": "https://www.meetup.com/angularcommunity/events/312064484/"
   },
   {
+    "name": "Create your own AI workflow",
+    "organizerId": "angular-community",
+    "type": "meetup",
+    "location": null,
+    "date": "2026-03-25",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularcommunity/events/313372221/"
+  },
+  {
+    "name": "🚀 Angular Community Virtual Job Fair: Connect, Learn, and Get Hired!",
+    "organizerId": "angular-community",
+    "type": "meetup",
+    "location": null,
+    "date": "2026-04-28",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularcommunity/events/313764270/"
+  },
+  {
     "name": null,
     "organizerId": "angular-costa-rica",
     "type": "meetup",
