@@ -1801,6 +1801,20 @@
     "url": "https://www.meetup.com/angularwroclaw/events/313371491/"
   },
   {
+    "name": "Angular Wrocław #47",
+    "organizerId": "angular-wroclaw",
+    "type": "meetup",
+    "location": "Wrocław, Poland",
+    "date": "2026-05-14",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularwroclaw/events/314282143/"
+  },
+  {
     "name": null,
     "organizerId": "angular-zurich",
     "type": "meetup",
