@@ -673,7 +673,7 @@
     "isOnsite": false,
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
-    "url": "https://www.meetup.com/nl-NL/angularcommunity/events/307222774/"
+    "url": "https://www.meetup.com/angularcommunity/events/307222774/"
   },
   {
     "name": "Test Fest | Fake It 'til You Mock It | Younes Jaaidi",
@@ -687,7 +687,7 @@
     "isOnsite": false,
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
-    "url": "https://www.meetup.com/nl-NL/angularcommunity/events/307518382/"
+    "url": "https://www.meetup.com/angularcommunity/events/307518382/"
   },
   {
     "name": "Test Fest | Structuring Code to Avoid Shell-Shocked Testing | Jason Warner",
@@ -701,7 +701,7 @@
     "isOnsite": false,
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
-    "url": "https://www.meetup.com/nl-NL/angularcommunity/events/307550969/"
+    "url": "https://www.meetup.com/angularcommunity/events/307550969/"
   },
   {
     "name": "Angular 20 Watch Party",
@@ -1601,7 +1601,7 @@
     "isOnsite": true,
     "callForPapersUrl": "http://bit.ly/angular-vienna-cfp",
     "callForPapersDueDate": null,
-    "url": "https://www.meetup.com/nl-nl/angular-vienna/events/308649521/"
+    "url": "https://www.meetup.com/angular-vienna/events/308649521/"
   },
   {
     "name": "Angular Vienna Summer Meetup July",
@@ -2177,6 +2177,20 @@
     "url": "https://www.meetup.com/ng-lodz/events/312114222/"
   },
   {
+    "name": "ngLodz - We are back!",
+    "organizerId": "ng-lodz",
+    "type": "meetup",
+    "location": "Łódź, Poland",
+    "date": "2026-05-20",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ng-lodz/events/314338024/"
+  },
+  {
     "name": null,
     "organizerId": "ng-asia",
     "type": "meetup",
@@ -2697,7 +2711,7 @@
     "isOnsite": true,
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
-    "url": "https://www.meetup.com/nl-nl/ngkato/events/314041799/"
+    "url": "https://www.meetup.com/ngkato/events/314041799/"
   },
   {
     "name": "Ng Conf Perú",
