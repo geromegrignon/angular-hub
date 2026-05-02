@@ -2713,6 +2713,20 @@
     "url": "https://www.meetup.com/ngkato/events/314041799/"
   },
   {
+    "name": "NG KATO #12",
+    "organizerId": "ng-kato",
+    "type": "meetup",
+    "location": "Katowice, Poland",
+    "date": "2026-05-21",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ngkato/events/314521499/"
+  },
+  {
     "name": "Ng Conf Perú",
     "organizerId": "angular-community-peru",
     "type": "conference",
