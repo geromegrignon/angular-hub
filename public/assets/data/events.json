@@ -2929,6 +2929,20 @@
     "location": "Poznan, Poland"
   },
   {
+    "name": "ngPoznan #36",
+    "organizerId": "ng-poznan",
+    "type": "meetup",
+    "date": "2026-05-18",
+    "url": "https://www.meetup.com/ng-poznan-meetup/events/314562563/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Poznan, Poland"
+  },
+  {
     "name": "Angular Lunch Session",
     "organizerId": "dutch-angular-group",
     "type": "meetup",
