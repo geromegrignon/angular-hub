@@ -959,6 +959,21 @@
     "location": "Nairobi, Kenya"
   },
   {
+    "name": "NG Kenya 2026",
+    "organizerId": "angular-kenya",
+    "type": "conference",
+    "date": "2026-08-21",
+    "endDate": "2026-08-22",
+    "url": "https://ng-kenya.com",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Nairobi, Kenya"
+  },
+  {
     "name": null,
     "organizerId": "angular-leipzig",
     "type": "meetup",
