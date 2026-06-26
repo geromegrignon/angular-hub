@@ -2020,6 +2020,23 @@
     "description": "Europe's Largest Angular Conference | Warsaw & Online"
   },
   {
+    "name": "NG Poland 2026",
+    "organizerId": "ng-poland",
+    "type": "conference",
+    "date": "2026-11-17",
+    "url": "https://ng-poland.pl/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Warsaw, Poland",
+    "startingPrice": 699,
+    "currency": "zł",
+    "description": "Europe's Largest Angular Conference | Warsaw & Online"
+  },
+  {
     "name": "NG Rome 2023",
     "organizerId": "ng-rome",
     "type": "conference",
