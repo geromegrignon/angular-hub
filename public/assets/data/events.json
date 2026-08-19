@@ -1944,6 +1944,20 @@
     "url": "https://www.meetup.com/angularzrh/events/314397996/"
   },
   {
+    "name": "Angular Zurich September 2026",
+    "organizerId": "angular-zurich",
+    "type": "meetup",
+    "location": "Zurich, Switzerland",
+    "date": "2026-09-07",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularzrh/events/316165766/"
+  },
+  {
     "name": null,
     "organizerId": "ng-girls",
     "type": "workshop",
