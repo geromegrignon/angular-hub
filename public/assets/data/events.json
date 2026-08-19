@@ -1411,6 +1411,20 @@
     "url": "https://www.meetup.com/angular-meetup-graz/events/312954900/"
   },
   {
+    "name": "Online Meetup: Federation v4 for Angular",
+    "organizerId": "angular-meetup-graz",
+    "type": "meetup",
+    "location": null,
+    "date": "2026-08-25",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-meetup-graz/events/316021402/"
+  },
+  {
     "name": "Big Meetup: Angular + AI",
     "organizerId": "angular-meetup-graz",
     "type": "meetup",
