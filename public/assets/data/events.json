@@ -971,7 +971,9 @@
     "isFree": false,
     "isRemote": false,
     "isOnsite": true,
-    "location": "Nairobi, Kenya"
+    "location": "Nairobi, Kenya",
+    "startingPrice": 1500,
+    "currency": "KES"
   },
   {
     "name": null,
