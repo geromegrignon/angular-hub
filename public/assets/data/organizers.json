@@ -942,5 +942,21 @@
     "youtubeUrl": "https://www.youtube.com/@ng-tunisia",
     "twitchUrl": null,
     "callForPapersUrl": null
+  },
+  {
+    "id": "ng-switzerland",
+    "name": "NG Switzerland",
+    "type": "angular-community",
+    "location": "Lucerne, Switzerland",
+    "logo": "https://ng-switzerland.ch/favicon.svg",
+    "eventsUrl": null,
+    "websiteUrl": "https://ng-switzerland.ch/",
+    "organizersUrl": "",
+    "blueskyUrl": "https://bsky.app/profile/ng-switzerland.ch",
+    "xUrl": "https://x.com/NGSwitzerland",
+    "linkedinUrl": "https://www.linkedin.com/company/ng-switzerland/",
+    "youtubeUrl": "https://www.youtube.com/@NGSwitzerland",
+    "twitchUrl": null,
+    "callForPapersUrl": null
   }
 ]
