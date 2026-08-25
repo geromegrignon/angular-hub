@@ -3758,6 +3758,8 @@
     "isFree": false,
     "isRemote": false,
     "isOnsite": true,
-    "location": "Lucerne, Switzerland"
+    "location": "Lucerne, Switzerland",
+    "startingPrice": 350,
+    "currency": "CHF"
   }
 ]
