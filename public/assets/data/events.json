@@ -1902,6 +1902,20 @@
     "url": "https://www.meetup.com/angularwroclaw/events/314282143/"
   },
   {
+    "name": "Angular Wrocław #48",
+    "organizerId": "angular-wroclaw",
+    "type": "meetup",
+    "location": "Wrocław, Poland",
+    "date": "2026-09-16",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularwroclaw/events/316259910/"
+  },
+  {
     "name": null,
     "organizerId": "angular-zurich",
     "type": "meetup",
