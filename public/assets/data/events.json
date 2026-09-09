@@ -2337,6 +2337,20 @@
     "url": "https://www.meetup.com/ng-lodz/events/314338024/"
   },
   {
+    "name": "ngLodz: AI Edition",
+    "organizerId": "ng-lodz",
+    "type": "meetup",
+    "location": "Łódź, Poland",
+    "date": "2026-09-16",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ng-lodz/events/316480511/"
+  },
+  {
     "name": null,
     "organizerId": "ng-asia",
     "type": "meetup",
