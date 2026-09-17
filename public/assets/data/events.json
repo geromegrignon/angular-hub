@@ -3817,5 +3817,50 @@
     "location": "Lucerne, Switzerland",
     "startingPrice": 350,
     "currency": "CHF"
+  },
+  {
+    "name": "NG KATO #14",
+    "organizerId": "ng-kato",
+    "type": "meetup",
+    "location": "Katowice, Poland",
+    "date": "2026-11-05",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ngkato/events/316156879/"
+  },
+  {
+    "name": "angularday 2026",
+    "organizerId": "angularday",
+    "type": "conference",
+    "location": "Verona, Italy",
+    "date": "2026-11-20",
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.angularday.it/",
+    "startingPrice": 99,
+    "currency": "€"
+  },
+  {
+    "name": "AIngular TLV",
+    "organizerId": "angular-tlv",
+    "type": "conference",
+    "location": "Tel Aviv, Israel",
+    "date": "2026-12-07",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-tlv/events/316474171/",
+    "description": "A one-day, single-stage conference where Angular meets intelligence: AI-powered Angular applications, tooling, and architecture. Registration is managed through angular-tlv.com."
   }
 ]
