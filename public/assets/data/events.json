@@ -930,6 +930,22 @@
     "url": "https://www.youtube.com/live/HKMPqYmugtg?feature=shared"
   },
   {
+    "name": "NG Baguette Conf 2027",
+    "organizerId": "angular-devs-france",
+    "type": "conference",
+    "location": "Paris, France",
+    "date": "2027-05-28",
+    "language": "French",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": "https://ngbaguette.angulardevs.fr/en/cfp/",
+    "callForPapersDueDate": "2027-01-29",
+    "url": "https://ngbaguette.angulardevs.fr/en/",
+    "startingPrice": 79,
+    "currency": "€"
+  },
+  {
     "name": "NG Kenya",
     "organizerId": "angular-kenya",
     "type": "conference",
