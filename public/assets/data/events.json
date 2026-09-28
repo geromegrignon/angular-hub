@@ -1150,6 +1150,20 @@
     "organizerId": "angular-london",
     "type": "meetup",
     "location": "London, United Kingdom",
+    "date": "2025-09-11",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": true,
+    "url": "https://www.meetup.com/angular-london/events/308779045"
+  },
+  {
+    "name": "Angular London Meetup",
+    "organizerId": "angular-london",
+    "type": "meetup",
+    "location": "London, United Kingdom",
     "date": "2025-12-04",
     "language": "English",
     "isFree": true,
@@ -1174,6 +1188,20 @@
     "url": "https://www.meetup.com/angular-london/events/311004640/"
   },
   {
+    "name": "Angular London Meetup",
+    "organizerId": "angular-london",
+    "type": "meetup",
+    "location": "London, United Kingdom",
+    "date": "2026-01-21",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-london/events/312485987"
+  },
+  {
     "name": "Manfred Steyer @ Angular London Meetup",
     "organizerId": "angular-london",
     "type": "meetup",
@@ -1186,6 +1214,20 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.meetup.com/angular-london/events/314579085/"
+  },
+  {
+    "name": "Firebase AI Logic & Giving Your AI Agents Eyes @ Angular London Meetup",
+    "organizerId": "angular-london",
+    "type": "meetup",
+    "location": "London, United Kingdom",
+    "date": "2026-09-28",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-london/events/316647381"
   },
   {
     "name": null,
@@ -3663,34 +3705,6 @@
     "isRemote": false,
     "isOnsite": true,
     "location": "Delhi, India"
-  },
-  {
-    "name": "Angular London Meetup",
-    "organizerId": "angular-london",
-    "type": "meetup",
-    "date": "2025-09-11",
-    "url": "https://www.meetup.com/angular-london/events/308779045",
-    "callForPapersUrl": null,
-    "callForPapersDueDate": null,
-    "language": "English",
-    "isFree": true,
-    "isRemote": true,
-    "isOnsite": true,
-    "location": "London, UK"
-  },
-  {
-    "name": "Angular London Meetup",
-    "organizerId": "angular-london",
-    "type": "meetup",
-    "date": "2026-01-21",
-    "url": "https://www.meetup.com/angular-london/events/312485987",
-    "callForPapersUrl": null,
-    "callForPapersDueDate": null,
-    "language": "English",
-    "isFree": true,
-    "isRemote": true,
-    "isOnsite": true,
-    "location": "London, UK"
   },
   {
     "name": "Angular Community Meetup",
